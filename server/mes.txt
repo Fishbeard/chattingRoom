@@ -1,0 +1,1 @@
+[{"text":"helloworld"},{"text":"123"},{"text":"123"},{"text":"123"},{"text":"来来来"},{"text":"干不干？"},{"text":"好难想IE啊、"},{"text":"好恐怖啊"},{"text":"很好"},{"text":"123"},{"text":"123"},{"text":"只执行了一次吗"},{"text":"呵呵"},{"text":"123"},{"text":"123"},{"text":"还在运行吗"},{"text":"123"},{"text":"woji nlai le "}]
